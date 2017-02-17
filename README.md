@@ -1,13 +1,13 @@
-# CSCI4502project
-##
+# CSCI4502 Data Mining Project  
+##  
 
-## Team Members:
-Roy De Jesus
-Sarah Barili
-Jia Lin
-Katie Grey
+## Team Members:  
+Roy De Jesus  
+Sarah Barili  
+Jia Lin  
+Katie Grey  
 
-## Project:
-Gene Pattern Matching
+## Project:  
+Gene Pattern Matching  
 
 ## 
