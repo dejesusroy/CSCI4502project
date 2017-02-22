@@ -8,6 +8,6 @@ Jia Lin
 Katie Grey  
 
 ## Project:  
-Gene Pattern Matching  
+Mining Reddit Comments  
 
 ## 
