@@ -5,7 +5,7 @@
 Roy De Jesus  
 Sarah Barili  
 Jia Lin  
-Katie Grey  
+Katie Gray  
 
 ## Project:  
 Mining Reddit Comments  
