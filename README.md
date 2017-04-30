@@ -10,4 +10,5 @@ Kathryn Gray
 ## Project:  
 Mining Reddit Comments  
 
-## 
+## Project Part III:
+https://www.sharelatex.com/project/58eac0fd2c8b1d831305e536
