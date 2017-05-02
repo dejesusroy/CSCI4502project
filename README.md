@@ -25,6 +25,7 @@ We searched for meaningful patterns in this dataset in an attempt to address and
 Reddit is a huge source of unregulated news and circulated user content.  Extracting meaningful information about this data and Reddit's users could provide insight into social trends and population sentiments that aren't published on mainstream websites of social networks. 
 
 ## Video Demonstration:
-
+Please check for swf file compatability
+https://github.com/dejesusroy/CSCI4502project/blob/master/02_MiningReddit_Part5.swf
 
 ## Project Part IV:
