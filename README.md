@@ -28,4 +28,3 @@ Reddit is a huge source of unregulated news and circulated user content.  Extrac
 
 
 ## Project Part IV:
-https://www.sharelatex.com/project/590680817d96ceb55d4d2b68
