@@ -29,3 +29,4 @@ Please check for swf file compatability
 https://github.com/dejesusroy/CSCI4502project/blob/master/02_MiningReddit_Part5.swf
 
 ## Project Part IV:
+https://www.sharelatex.com/project/590680817d96ceb55d4d2b68
