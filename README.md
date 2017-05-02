@@ -29,5 +29,5 @@ Please check for swf file compatability
 https://github.com/dejesusroy/CSCI4502project/blob/master/02_MiningReddit_Part5.swf
 
 ## Project Part IV:
-Final Report can be found in a latex file here:
-https://www.sharelatex.com/project/590680817d96ceb55d4d2b68
+Final Report can be found here:
+https://github.com/dejesusroy/CSCI4502project/blob/master/02_MiningReddit_Part4.pdf
